@@ -34,7 +34,7 @@ The application should now be running on http://localhost:3000.
 
 # Usage
 
-*Login: Use the provided admin credentials to log in and access the dashboard. *Navigation: Use the sidebar to navigate between different sections such as Employee Details, Feedback, Leave, etc. *Search: Utilize the search bar to find specific employees by name. *Export: Click the export button on any table to download the data as an Excel file.
+* Login: Use the provided admin credentials to log in and access the dashboard. * Navigation: Use the sidebar to navigate between different sections such as Employee Details, Feedback, Leave, etc. * Search: Utilize the search bar to find specific employees by name. * Export: Click the export button on any table to download the data as an Excel file.
 
 # Technologies Used
 
