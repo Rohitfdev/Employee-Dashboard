@@ -1,7 +1,7 @@
 # Employee Dashboard
 This is an Employee Dashboard application built with React.js. The dashboard allows an admin to manage and view various aspects of employee data, including personal details, feedback, leave, attendance, daily timesheets, work logs, reimbursements, and reports. The application offers a robust UI with features like search functionality and export options.
 
-#Features
+# Features
 Login Functionality: Admins can securely log in to access the dashboard and manage employee data.
 Employee Data Management: View and manage detailed employee information across different categories:
 Employee Details
@@ -32,14 +32,14 @@ cd employee-dashboard
 
 The application should now be running on http://localhost:3000.
 
-#Usage
+# Usage
 
 *Login: Use the provided admin credentials to log in and access the dashboard. *Navigation: Use the sidebar to navigate between different sections such as Employee Details, Feedback, Leave, etc. *Search: Utilize the search bar to find specific employees by name. *Export: Click the export button on any table to download the data as an Excel file.
 
-Technologies Used
+# Technologies Used
 
 *React.js: JavaScript library for building user interfaces. *Bootstrap: Framework for responsive and mobile-first web development. *Styled-Components: Library for styling React components with tagged template literals. *React Icons: Collection of popular icons in React. *Mock API: Simulated backend to handle data operations.
 
-Contributing
+# Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
