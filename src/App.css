@@ -1,0 +1,84 @@
+
+.blue-btn {
+    background-color: #4B8FD5 !important;
+    color: #fff !important;
+    font-weight: 500;
+}
+
+.blue-outline-btn {
+    background: #fff;
+    border: 1px solid #4B8FD5 !important;
+    color: #4B8FD5 !important;
+    font-weight: 500;
+}
+
+.link-btn {
+    color: #4B8FD5;
+}
+
+a {
+    text-decoration: none;
+}
+
+.css-1dyz3mf {
+    flex-wrap:nowrap !important;
+}
+.css-1fdsijx-ValueContainer {
+    flex-wrap:nowrap !important;
+}
+
+
+
+
+
+
+ .navbar-search input {
+    font-size: 0.85rem;
+    height: auto;
+    border-radius: 50px;
+    outline: none;
+    box-shadow: none;
+    min-height: 40px;
+    background-color: transparent !important;
+}
+
+ 
+
+ .navbar-search .input-group {
+    background: #FFFFFF;
+    border-radius: 50px;
+    border: 2px solid #EAEBF0;
+    padding: 0px 8px;
+}
+
+.user-detail {
+    margin-left: 50px;
+}
+
+
+.form-control:focus {
+    box-shadow: none !important;
+}
+
+table .form-check .form-check-input {
+    float: none !important;
+    margin-left: 0px !important;
+}
+table .form-check {
+    padding-left: 0px !important;
+}
+table .form-switch {
+    padding-left: 0px !important;
+
+}
+
+.react_inbuild_select {
+    border: none !important;
+    font-family: Poppins;
+}
+
+
+
+
+
+

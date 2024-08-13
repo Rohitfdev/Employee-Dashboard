@@ -1,0 +1,81 @@
+.login_txt_box{
+    background-color: #34B1E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 20px;
+    border-radius: 10px;
+    color: #FAFAFA;
+    font-family: "Poppins";
+    width: 100%;
+}
+.login_txt_box h4 {
+    font-weight: 600;
+}
+.email_field_cont {
+    border: 1px solid #D6D8E3;
+    padding: 0px 10px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 10px 10px 20px 0px;
+    max-width: 100%;
+
+}
+.email_field_cont input {
+    border: none !important;
+    outline:  none !important;
+    padding: 10px;
+    font-family: "Poppins";
+    font-size: 18px;
+    
+}
+.login_page_icons {
+    color:  #4263A5 !important;
+    font-weight: bold !important;
+    font-size: 22px;
+}
+.login_btn{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #4263A5;
+    color: #FAFAFA;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Poppins";
+    border-radius: 5px;
+    outline: none !important;
+    letter-spacing: 1px;
+}
+.outer_cont{
+    /* background-image: url(../../../public/assets/images/Backgraound.png); */
+    height: 89.7vh !important;
+}
+.login_section{
+    height: 100vh;
+}
+.inner_cont{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px 30px;
+    width: 100%;
+    max-width: 520px;
+}
+.login_section .material_pass_field{
+    border: none !important;
+}
+.login_section .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+     border: none !important;
+     outline: none !important;
+}
+.login_section .css-igs3ac {
+  border: none !important;}
+
+
+
+  .bg-logo{
+    background-color: #000;
+  }
+ 
