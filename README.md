@@ -38,7 +38,11 @@ The application should now be running on http://localhost:3000.
 
 # Technologies Used
 
-*React.js: JavaScript library for building user interfaces. *Bootstrap: Framework for responsive and mobile-first web development. *Styled-Components: Library for styling React components with tagged template literals. *React Icons: Collection of popular icons in React. *Mock API: Simulated backend to handle data operations.
+- React.js: JavaScript library for building user interfaces.
+- Bootstrap: Framework for responsive and mobile-first web development.
+- Styled-Components: Library for styling React components with tagged template literals.
+- React Icons: Collection of popular icons in React.
+- Mock API: Simulated backend to handle data operations.
 
 # Contributing
 
