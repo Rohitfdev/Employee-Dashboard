@@ -1,4 +1,4 @@
-#Employee Dashboard
+# Employee Dashboard
 This is an Employee Dashboard application built with React.js. The dashboard allows an admin to manage and view various aspects of employee data, including personal details, feedback, leave, attendance, daily timesheets, work logs, reimbursements, and reports. The application offers a robust UI with features like search functionality and export options.
 
 #Features
