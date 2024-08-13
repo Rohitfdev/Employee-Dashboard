@@ -1,16 +1,17 @@
 import React, { useState } from 'react';
-import { useHistory, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 const LoginPage = ({ onLogin }) => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
-  const history = useNavigate();
+  const navigate = useNavigate();
 
   const handleLogin = (e) => {
     e.preventDefault();
     if (username === 'admin' && password === 'password') {
+      localStorage.setItem('auth', JSON.stringify({ username, password }));
       onLogin(true);
-     history("/")
+      navigate('/');
     } else {
       alert('Invalid username or password');
     }
